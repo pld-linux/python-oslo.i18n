@@ -8,7 +8,7 @@
 Summary:	Oslo i18n library
 Name:		python-oslo.i18n
 Version:	3.17.0
-Release:	3
+Release:	4
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/oslo.i18n/oslo.i18n-%{version}.tar.gz
