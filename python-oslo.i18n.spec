@@ -11,7 +11,7 @@ Name:		python-oslo.i18n
 # keep 3.x for python2 support
 Version:	3.25.1
 Release:	1
-License:	Apache
+License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/oslo.i18n/oslo.i18n-%{version}.tar.gz
 # Source0-md5:	82e01af1ce6aecfdece62ac5c0dd650a
