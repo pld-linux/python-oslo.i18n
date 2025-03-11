@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Biblioteka Oslo i18n
 Name:		python-oslo.i18n
 # keep 3.x for python2 support
 Version:	3.25.1
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/oslo.i18n/oslo.i18n-%{version}.tar.gz
